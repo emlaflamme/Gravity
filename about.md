@@ -9,6 +9,6 @@ permalink: /about/
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
-  <strong>Posting</strong>
+  <strong>CV</strong>
   </div>
 <p>  <div class="manual-content">
