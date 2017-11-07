@@ -1,12 +1,12 @@
 # Site settings
 title: emily laflamme
 email: emily.laflamme@gmail.com
-description: Hello!
+description: Cities should benefit public health. Based in Chicago, IL 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://emlaflamme.github.io" # the base hostname & protocol for your site
 twitter_username: emily_laflamme
 github_username:  emlaflamme
-paginate: 5
+paginate: 4
 theme-dark: false #Set to true to change to dark website theme
 
 gems: [jekyll-paginate, kramdown]
