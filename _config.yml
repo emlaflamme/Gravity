@@ -1,7 +1,8 @@
 # Site settings
 title: emily laflamme
 email: emily.laflamme@gmail.com
-description: Cities should benefit public health. Based in Chicago, IL 
+description: Cities for health. 
+Based in Chicago, IL
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://emlaflamme.github.io" # the base hostname & protocol for your site
 twitter_username: emily_laflamme
