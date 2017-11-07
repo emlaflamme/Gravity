@@ -1,9 +1,16 @@
 ---
 layout: post
-title:  "Health in All Policies!"
-date:   2017-11-06
-categories: publichealth
-author: 
+title:  "Hello, world!"
+date:   2016-03-30 19:45:31 +0530
+categories: blog
 ---
+Hello, worlds!
 
-Hello world! 
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
