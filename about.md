@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about /
-tagline: Hi! It's nice to meet you!
+tagline: Hi It's nice to meet you!
 ---
 
 <h2></h2>
