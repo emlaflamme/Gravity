@@ -4,10 +4,8 @@ title : About
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
-<br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
+<h2>Hi, it's nice to meet you! </h2>
+<p>I care about making the world a better place.</p>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
