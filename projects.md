@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Projects
-permalink: / projects / 
+permalink: /projects/ 
 tagline: A few things I'm working on
 ---
