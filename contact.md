@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Contact
-permalink: / contact /
+permalink: /contact/
 tagline: Get in touch
 ---
