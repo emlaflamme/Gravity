@@ -6,6 +6,6 @@ permalink: /resume/
 tagline: "Experience"
 ---
 
-<h2>PROFESSIONAL EXPERIENCE</h2>
+<h5>PROFESSIONAL EXPERIENCE</h5>
 
-<h3>Senior Epidemiologist, **Chicago Department of Public Health,** Chicago, Illinois</h3>
+<h6>Senior Epidemiologist, **Chicago Department of Public Health,** Chicago, Illinois</h6>
