@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, world!"
-date:   2016-03-30 19:45:31 +0530
-categories: blog
+date:   2017-11-12 19:45:31 +0530
+categories: projects
 ---
 Hello, world!
