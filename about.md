@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 
-Hi! I'm Emily.
-
 I'm interested in creating cities that promote health. This is a simple sentence, that actually is anything but. 
 
 I work as a Senior Epidemiologist at the Chicago Department of Public Health, dedicated to the development and implementation of a data strategy that allows us to predict and measure the health impacts of place-based and community development initiatives.
