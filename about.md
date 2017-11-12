@@ -22,4 +22,3 @@ Build Healthy Places Network: [Making the Case for Community Development](https:
 [Chicago Health Atlas](https:\\www.chicagohealthatlas.org)
 
 
-[Resume](https://github.com/emlaflamme/emlaflamme.github.io/blob/master/Laflamme%20Resume%20-%20NYC.pdf)
