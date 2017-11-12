@@ -7,7 +7,7 @@ permalink: /about/
 
 I'm interested in creating cities that promote health. This is a simple sentence, that actually is anything but. 
 
-I work as a Senior Epidemiologist at the Chicago Department of Public Health, dedicated to the development and implementation of a data strategy that allows us to predict and measure the health impacts of place-based and community development initiatives.
+I work as a Senior Epidemiologist at the Chicago Department of Public Health, dedicated to developing and implementating a data strategy that allows us to predict and measure the health impacts of place-based and community development initiatives.
 
 
 **Current projects:**
@@ -21,3 +21,5 @@ Build Healthy Places Network: [Making the Case for Community Development](https:
 
 [Chicago Health Atlas](https:\\www.chicagohealthatlas.org)
 
+
+[Resume](https://github.com/emlaflamme/emlaflamme.github.io/blob/master/Laflamme%20Resume%20-%20NYC.pdf)
